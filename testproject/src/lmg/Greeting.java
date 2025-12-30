@@ -1,4 +1,4 @@
-package git.lmg;
+package lmg;
 
 public class Greeting {
 	public void greeting() {
